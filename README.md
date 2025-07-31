@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Mobile Developer from Vietnam</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+%7C+React+%7C+Swift+Enthusiast;Building+Apps+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+%7C+React;Building+Apps+that+Matter" alt="Typing SVG" />
 </p>
 
 ---
