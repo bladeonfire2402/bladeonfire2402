@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Swift**
 - 💬 Ask me about **React, Flutter, Next.js**
-- 📫 Reach me at **liempham24022004@gmail.com**
+- 📫 Reach me at m **p.dinhliem24@gmail.com**
 
 ---
 
